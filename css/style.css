@@ -842,6 +842,10 @@ header .ham-burger.active span:nth-child(2){
 	color:#c5c5c5;
 	font-size: 15px;
 }
+.copy a{
+	color:#c5c5c5;
+	text-decoration: none;
+}
 
 
 
