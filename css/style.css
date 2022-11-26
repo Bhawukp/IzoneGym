@@ -731,6 +731,10 @@ header .ham-burger.active span:nth-child(2){
 	max-width: 50%;
 	padding: 15px;
 }
+.contact .content .img img{
+	width: 100%;
+	display: block;
+}
 
 .contact .content .form input,
 .contact .content .form textarea{
@@ -849,6 +853,9 @@ header .ham-burger.active span:nth-child(2){
 .copy a{
 	color:#c5c5c5;
 	text-decoration: none;
+}
+.logoimg {
+	width: 20%;
 }
 
 
