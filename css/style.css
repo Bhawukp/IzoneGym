@@ -42,6 +42,10 @@ header .logo a{
 header .logo a span{
 	color:#c11325;
 }
+header .logo img{
+	height: 7%;
+	width: 7%;
+}
 header .nav{
 	position: fixed;
 	background-color: #c11325;
